@@ -1,0 +1,60 @@
+.tableaubg{
+    background-image: url(../images/tableau-bg.jpg);
+    background-size: cover;
+  }
+  
+  .topborder{
+    top: 10px;
+    height: 20px;
+    right: 10px;
+    left: 10px;
+    position: absolute;
+    text-align: right;
+    padding: 5px;
+  }
+  
+  .bottomborder{
+    bottom: 10px;
+    height: 30px;
+    position: fixed;
+    right: 10px;
+    left: 10px;
+    text-align: center;
+    font-size: 11px;
+  }
+  
+  .leftborder{
+    position: absolute;
+    top: 70px;
+    left: 10px;
+    bottom: 80px;
+    width: 90px;
+  }
+
+  .body{
+    position: absolute;
+    top: 70px;
+    bottom: 80px;
+    right: 10px;
+    left: 120px;
+  }
+
+  body{
+    font-family: sans-serif;
+    color: rgb(226, 226, 226);
+  }
+
+  .navigation{
+      font-weight: bolder;
+  }
+
+  .navhover:hover{
+      color: darkorange;
+  }
+
+  a{
+      color: dodgerblue;
+  }
+  a:visited{
+      color:gold;
+  }

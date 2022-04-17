@@ -1,0 +1,41 @@
+.contentheader{
+  text-align: center;
+  text-decoration: underline 3px;
+}
+
+.resumesection{
+  text-align: center;
+}
+
+.indexcontent{
+  text-align: center;
+}
+
+a{
+  color: cornflowerblue;
+}
+
+a:hover{
+  color:rgb(220, 176, 46);
+}
+
+a:visited{
+  color: rgb(68, 100, 159);
+}
+
+.byuimage{
+  position: absolute;
+  right: 350px;
+}
+
+.excelimage{
+  position: absolute;
+  right: 500px;
+}
+
+.basketballimage{
+  position: absolute;
+  right: 500px;
+  left: 500px;
+  bottom: 30px;
+}
